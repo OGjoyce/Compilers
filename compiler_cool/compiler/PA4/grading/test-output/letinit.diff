@@ -1,0 +1,8 @@
+6,7c6,9
+< 1test
+< COOL program successfully executed
+---
+> The following symbols are undefined:
+> label0
+> Instruction references undefined symbol at 0x004013d8
+> [0x004013d8]	0x11200000  beq $9, $0, 0 [label0-0x004013d8]; 422: beqz	$t1 label0

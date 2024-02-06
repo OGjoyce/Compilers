@@ -1,0 +1,7 @@
+6c6,9
+< COOL program successfully executed
+---
+> The following symbols are undefined:
+> label63
+> Can't expand data segment by 65536 bytes to 1114112 bytes
+> Use -ldata # with # > 1114112

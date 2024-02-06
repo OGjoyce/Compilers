@@ -1,0 +1,4 @@
+4c4
+< #13 STR_CONST "string"
+---
+> #13 STR_CONST "    --      string"

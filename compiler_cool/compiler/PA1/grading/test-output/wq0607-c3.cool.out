@@ -1,0 +1,14 @@
+STR_CONST "          \\"
+STR_CONST "          \\\"\""
+no hizo ningun match: \
+no hizo ningun match: \
+STR_CONST "          \\\"\""
+no hizo ningun match: \
+STR_CONST "          \\\"\"\\"
+no hizo ningun match: \
+STR_CONST "          \\\"\"\\\\"
+STR_CONST "          \\\"\"\\\\"
+no hizo ningun match: \
+STR_CONST "          \\\"\"\\\\\""
+no hizo ningun match: \
+LONGERROR

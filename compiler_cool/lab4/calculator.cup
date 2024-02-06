@@ -1,0 +1,92 @@
+package Example;
+import java_cup.runtime.*;
+
+parser code {:
+	public static void main(String args[]) throws Exception {
+		new parser(new Yylex(System.in)).parse();
+	}
+:}
+
+terminal SEMI, PLUS, TIMES, MINUS, LPAREN, RPAREN, DIVI, POW, REM, SIN, COS, TAN;
+terminal Float FLOAT;
+terminal Integer INTEGER;
+
+non terminal expr_list, expr_part, expr;
+non terminal Integer exprI;
+non terminal Float exprF;
+
+precedence left PLUS, MINUS;
+precedence left TIMES, DIVI, REM;
+precedence left SIN, COS, TAN;
+precedence left POW;
+
+
+expr_list ::= expr_list expr_part | expr_part;
+expr_part ::= expr:e {: System.out.println("= "+e+";"); :} SEMI;
+expr 	  ::= exprI :i {: RESULT = i; :}
+			| exprF :i {: RESULT= i; :}
+			;
+exprI ::=
+		INTEGER:n 
+		  {: RESULT= n; :}
+        | exprI:l PLUS exprI:r
+	      {: RESULT=new Integer(l + r); :}
+	    | exprI:l MINUS exprI:r
+	      {: RESULT=new Integer(l - r); :}
+	    | exprI:l TIMES exprI:r
+	      {: RESULT=new Integer(l * r); :}
+	    | exprI:l DIVI exprI:r
+	      {: RESULT=new Integer(l / r); :}
+	    | exprI:l REM exprI:r
+	      {: RESULT=new Integer(l % r); :}
+	    | LPAREN exprI:l RPAREN
+	      {: RESULT= new Integer(l); :}
+	    ;
+exprF ::=
+		FLOAT:f
+		{: RESULT = f; :}
+		| exprI:l PLUS exprF:r
+		{: RESULT = new Float(l + r); :}
+		| exprF:l PLUS exprI:r
+		{: RESULT = new Float(l + r); :}
+		| exprF:l PLUS exprF:r
+		{: RESULT = new Float(l + r); :}
+		| exprI:l MINUS exprF:r
+		{: RESULT = new Float(l - r); :}
+		| exprF:l MINUS exprI:r
+		{: RESULT = new Float(l - r); :}
+		| exprF:l MINUS exprF:r
+		{: RESULT = new Float(l - r); :}
+		| exprI:l TIMES exprF:r
+		{: RESULT = new Float(l * r); :}
+		| exprF:l TIMES exprI:r
+		{: RESULT = new Float(l * r); :}
+		| exprF:l TIMES exprF:r
+		{: RESULT = new Float(l * r); :}
+		| exprI:l DIVI exprF:r
+		{: RESULT = new Float(l / r); :}
+		| exprF:l DIVI exprI:r
+		{: RESULT = new Float(l / r); :}
+		| exprF:l DIVI exprF:r
+		{: RESULT = new Float(l / r); :}
+		| exprI:l POW exprF:r
+		{: RESULT = new Float(Math.pow(l,r)); :}
+		| exprF:l POW exprI:r
+		{: RESULT = new Float(Math.pow(l,r)); :}
+		| exprF:l POW exprF:r
+		{: RESULT = new Float(Math.pow(l,r)); :}
+		| SIN LPAREN exprI:l RPAREN
+		{: RESULT = new Float(Math.sin(l)); :}
+		| SIN LPAREN exprF:l RPAREN
+		{: RESULT = new Float(Math.sin(l)); :}
+		| COS LPAREN exprI:l RPAREN
+		{: RESULT = new Float(Math.cos(l)); :}
+		| COS LPAREN exprF:l RPAREN
+		{: RESULT = new Float(Math.cos(l)); :}
+		| TAN LPAREN exprI:l RPAREN
+		{: RESULT = new Float(Math.tan(l)); :}
+		| TAN LPAREN exprF:l RPAREN
+		{: RESULT = new Float(Math.tan(l)); :}
+		| LPAREN exprF:l RPAREN
+		{: RESULT = new Float(l); :}
+		;

@@ -1,0 +1,48 @@
+60c60
+< STR_CONST "\n"
+---
+> STR_CONST "title:      \n"
+65c65
+< STR_CONST "author:     "
+---
+> STR_CONST "title:      \nauthor:     "
+75c75
+< STR_CONST "\n"
+---
+> STR_CONST "title:      \nauthor:     \n"
+145c145
+< STR_CONST "periodical:  "
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  "
+155c155
+< STR_CONST "\n"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n"
+349c349
+< STR_CONST "- dynamic type was Book -\n"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n"
+358c358
+< STR_CONST "- dynamic type was Article -\n"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n- dynamic type was Article -\n"
+425c425
+< STR_CONST "Compilers, Principles, Techniques, and Tools"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n- dynamic type was Article -\nCompilers, Principles, Techniques, and Tools"
+427c427
+< STR_CONST "Aho, Sethi, and Ullman"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n- dynamic type was Article -\nCompilers, Principles, Techniques, and ToolsAho, Sethi, and Ullman"
+443c443
+< STR_CONST "The Top 100 CD_ROMs"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n- dynamic type was Article -\nCompilers, Principles, Techniques, and ToolsAho, Sethi, and UllmanThe Top 100 CD_ROMs"
+445c445
+< STR_CONST "Ulanoff"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n- dynamic type was Article -\nCompilers, Principles, Techniques, and ToolsAho, Sethi, and UllmanThe Top 100 CD_ROMsUlanoff"
+447c447
+< STR_CONST "PC Magazine"
+---
+> STR_CONST "title:      \nauthor:     \nperiodical:  \n   \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .       \"\"  ,                    .          ,  ()   .    - dynamic type was Book -\n- dynamic type was Article -\nCompilers, Principles, Techniques, and ToolsAho, Sethi, and UllmanThe Top 100 CD_ROMsUlanoffPC Magazine"

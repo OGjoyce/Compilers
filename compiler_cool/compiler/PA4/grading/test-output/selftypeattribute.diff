@@ -1,0 +1,9 @@
+6,7c6,10
+< 2
+< COOL program successfully executed
+---
+> The following symbols are undefined:
+> B.foo
+> A.init
+> A.getx
+> A.foo

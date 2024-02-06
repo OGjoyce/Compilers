@@ -1,0 +1,15 @@
+6,12c6,11
+< 1
+< 2
+< 3
+< 4
+< 5
+< 6
+< COOL program successfully executed
+---
+> The following symbols are undefined:
+> Main.main
+> Bool_init
+> Int_init
+> String_init
+> Main.recite

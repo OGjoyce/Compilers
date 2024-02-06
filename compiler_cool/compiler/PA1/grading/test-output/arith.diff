@@ -1,0 +1,300 @@
+511c511
+< STR_CONST "0"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0"
+518c518
+< STR_CONST "1"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"01"
+525c525
+< STR_CONST "2"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"012"
+532c532
+< STR_CONST "3"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123"
+539c539
+< STR_CONST "4"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"01234"
+546c546
+< STR_CONST "5"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"012345"
+553c553
+< STR_CONST "6"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456"
+560c560
+< STR_CONST "7"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"01234567"
+567c567
+< STR_CONST "8"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"012345678"
+574c574
+< STR_CONST "9"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789"
+612c612
+< STR_CONST "0"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0"
+619c619
+< STR_CONST "1"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .01"
+626c626
+< STR_CONST "2"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .012"
+633c633
+< STR_CONST "3"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123"
+640c640
+< STR_CONST "4"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .01234"
+647c647
+< STR_CONST "5"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .012345"
+654c654
+< STR_CONST "6"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456"
+661c661
+< STR_CONST "7"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .01234567"
+668c668
+< STR_CONST "8"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .012345678"
+675c675
+< STR_CONST "9"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789"
+682c682
+< STR_CONST ""
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789"
+727c727
+< STR_CONST "-"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-"
+758c758
+< STR_CONST "+"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+"
+880c880
+< STR_CONST "0"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0"
+892c892
+< STR_CONST "-"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0-"
+922c922
+< STR_CONST ""
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  "
+988c988
+< STR_CONST "\n\tTo add a number to "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to "
+998c998
+< STR_CONST "...enter a:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n"
+1003c1003
+< STR_CONST "\tTo negate "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate "
+1013c1013
+< STR_CONST "...enter b:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n"
+1018c1018
+< STR_CONST "\tTo find the difference between "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between "
+1028c1028
+< STR_CONST "and another number...enter c:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n"
+1033c1033
+< STR_CONST "\tTo find the factorial of "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of "
+1043c1043
+< STR_CONST "...enter d:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n"
+1048c1048
+< STR_CONST "\tTo square "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square "
+1058c1058
+< STR_CONST "...enter e:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n"
+1063c1063
+< STR_CONST "\tTo cube "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube "
+1073c1073
+< STR_CONST "...enter f:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n"
+1078c1078
+< STR_CONST "\tTo find out if "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if "
+1088c1088
+< STR_CONST "is a multiple of 3...enter g:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n"
+1093c1093
+< STR_CONST "\tTo divide "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide "
+1103c1103
+< STR_CONST "by 8...enter h:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n"
+1108c1108
+< STR_CONST "\tTo get a new number...enter j:\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n"
+1113c1113
+< STR_CONST "\tTo quit...enter q:\n\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n"
+1132c1132
+< STR_CONST "\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\n"
+1137c1137
+< STR_CONST "Please enter a number...  "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  "
+1257c1257
+< STR_CONST "Class type is now A\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\n"
+1266c1266
+< STR_CONST "Class type is now B\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\n"
+1275c1275
+< STR_CONST "Class type is now C\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\n"
+1284c1284
+< STR_CONST "Class type is now D\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\n"
+1293c1293
+< STR_CONST "Class type is now E\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\n"
+1302c1302
+< STR_CONST "Oooops\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n"
+1343c1343
+< STR_CONST " "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n "
+1370c1370
+< STR_CONST "number "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number "
+1390c1390
+< STR_CONST "is even!\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\n"
+1395c1395
+< STR_CONST "is odd!\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\n"
+1413c1413
+< STR_CONST "a"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\na"
+1457c1457
+< STR_CONST "b"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nab"
+1503c1503
+< STR_CONST "Oooops\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\n"
+1519c1519
+< STR_CONST "c"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\nc"
+1563c1563
+< STR_CONST "d"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncd"
+1586c1586
+< STR_CONST "e"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncde"
+1609c1609
+< STR_CONST "f"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdef"
+1632c1632
+< STR_CONST "g"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefg"
+1654c1654
+< STR_CONST "number "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber "
+1664c1664
+< STR_CONST "is divisible by 3.\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\n"
+1672c1672
+< STR_CONST "number "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber "
+1682c1682
+< STR_CONST "is not divisible by 3.\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\n"
+1691c1691
+< STR_CONST "h"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nh"
+1743c1743
+< STR_CONST "number "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nhnumber "
+1753c1753
+< STR_CONST "is equal to "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nhnumber is equal to "
+1763c1763
+< STR_CONST "times 8 with a remainder of "
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nhnumber is equal to times 8 with a remainder of "
+1788c1788
+< STR_CONST "\n"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nhnumber is equal to times 8 with a remainder of \n"
+1807c1807
+< STR_CONST "j"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nhnumber is equal to times 8 with a remainder of \nj"
+1819c1819
+< STR_CONST "q"
+---
+> STR_CONST " *       (@) * *                .  ~/        --  -- .     ,       ,         ,    ( ).().        -    .                \"\"  \"\"0123456789       \t\t\t\t           .0123456789          .       .       .           .            .-+ _       .       ,     .         .           .  0- _     .  \n\tTo add a number to ...enter a:\n\tTo negate ...enter b:\n\tTo find the difference between and another number...enter c:\n\tTo find the factorial of ...enter d:\n\tTo square ...enter e:\n\tTo cube ...enter f:\n\tTo find out if is a multiple of 3...enter g:\n\tTo divide by 8...enter h:\n\tTo get a new number...enter j:\n\tTo quit...enter q:\n\n\nPlease enter a number...  Class type is now A\nClass type is now B\nClass type is now C\nClass type is now D\nClass type is now E\nOooops\n number is even!\nis odd!\nabOooops\ncdefgnumber is divisible by 3.\nnumber is not divisible by 3.\nhnumber is equal to times 8 with a remainder of \njq"

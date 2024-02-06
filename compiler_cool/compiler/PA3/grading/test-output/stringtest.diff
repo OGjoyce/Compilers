@@ -1,0 +1,44 @@
+20c20
+<           : String
+---
+>           : _no_type
+24c24
+<         : Int
+---
+>         : _no_type
+29,30c29,30
+<             "test"
+<           : String
+---
+>             "testtest"
+>           : _no_type
+36c36
+<           : Int
+---
+>           : _no_type
+40c40
+<           : Int
+---
+>           : _no_type
+42c42
+<         : String
+---
+>         : _no_type
+47,48c47,48
+<             "test"
+<           : String
+---
+>             "testtesttest"
+>           : _no_type
+53,54c53,54
+<             " me"
+<           : String
+---
+>             "testtesttest me"
+>           : _no_type
+56,57c56,57
+<         : String
+<       : String
+---
+>         : _no_type
+>       : _no_type

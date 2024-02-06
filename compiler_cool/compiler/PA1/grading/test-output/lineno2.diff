@@ -1,0 +1,8 @@
+1c1
+< #5 ERROR "!"
+---
+> no hizo ningun match: !
+3c3
+< #7 STR_CONST ""
+---
+> #7 STR_CONST " ;;  \"\"  ;"

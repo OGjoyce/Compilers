@@ -1,0 +1,17 @@
+6,11c6,14
+< 1
+< 2
+< 3
+< 4
+< 5
+< COOL program successfully executed
+---
+> The following symbols are undefined:
+> Main.main
+> Bool_init
+> Int_init
+> String_init
+> Base.recite
+> Main_init
+> Instruction references undefined symbol at 0x00400034
+> [0x00400034]	0x0c000000  jal 0x00000000 [Main_init]      ; 372: jal	Main_init		# initialize the Main object

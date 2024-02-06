@@ -1,0 +1,6 @@
+#name "./pathologicalstrings.cool"
+#5 ERROR "String too long, (s.length() <= 1024)...."
+#8 ERROR "String too long, (s.length() <= 1024)...."
+#11 ERROR "String too long, (s.length() <= 1024)...."
+#14 ERROR "String too long, (s.length() <= 1024)...."
+#17 ERROR "String too long, (s.length() <= 1024)...."

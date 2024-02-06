@@ -1,0 +1,9 @@
+5c5,6
+< STR_CONST "This is, though \\\n"
+---
+> LONGERROR
+> LONGERROR
+7c8
+< STR_CONST "It's fine to have this: \n in a string"
+---
+> STR_CONST "\\It's fine to have this: \n in a string"

@@ -1,0 +1,8 @@
+117c117
+< STR_CONST "that was a palindrome\n"
+---
+> STR_CONST "enter a string\nthat was a palindrome\n"
+122c122
+< STR_CONST "that was not a palindrome\n"
+---
+> STR_CONST "enter a string\nthat was a palindrome\nthat was not a palindrome\n"

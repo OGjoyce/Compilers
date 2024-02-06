@@ -1,0 +1,17 @@
+6c6,19
+< 17141611714163171416511714161171416317141653117141611714163171416511714161171416317141653171416117141631714165171416COOL program successfully executed
+---
+> The following symbols are undefined:
+> Foo.doh
+> Foo_init
+> Main.main
+> Bool_init
+> Bazz.doh
+> Int_init
+> String_init
+> Bar_init
+> Bazz.printh
+> Main_init
+> Razz_init
+> Instruction references undefined symbol at 0x00400034
+> [0x00400034]	0x0c000000  jal 0x00000000 [Main_init]      ; 372: jal	Main_init		# initialize the Main object

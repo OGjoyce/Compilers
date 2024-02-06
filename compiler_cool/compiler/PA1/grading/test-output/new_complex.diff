@@ -1,0 +1,20 @@
+51c51
+< STR_CONST "=(\n"
+---
+> STR_CONST "=)\n=(\n"
+77c77
+< STR_CONST "=)\n"
+---
+> STR_CONST "=)\n=(\n=)\n"
+82c82
+< STR_CONST "=(\n"
+---
+> STR_CONST "=)\n=(\n=)\n=(\n"
+155c155
+< STR_CONST "+"
+---
+> STR_CONST "=)\n=(\n=)\n=(\n+"
+165c165
+< STR_CONST "I"
+---
+> STR_CONST "=)\n=(\n=)\n=(\n+I"

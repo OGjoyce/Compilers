@@ -1,0 +1,6 @@
+2,3c2,3
+< STR_CONST "\"this is still inside the string"
+< STR_CONST "I'm about to excape a newline \n"
+---
+> STR_CONST "012\\0\\1\\2\t\f\b\nra\bcde\fg\"this is still inside the string"
+> STR_CONST "012\\0\\1\\2\t\f\b\nra\bcde\fg\"this is still inside the stringI'm about to excape a newline \n"

@@ -1,0 +1,7 @@
+6c6,9
+< COOL program successfully executed
+---
+> The following symbols are undefined:
+> label2
+> Instruction references undefined symbol at 0x004014a8
+> [0x004014a8]	0x04010000  bgez $0 0 [label2-0x004014a8]   ; 509: b	label2

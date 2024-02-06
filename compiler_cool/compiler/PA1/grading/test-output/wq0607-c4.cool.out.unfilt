@@ -1,0 +1,30 @@
+#name "./wq0607-c4.cool"
+#3 STR_CONST "           -  \\-"
+#3 '-'
+#3 STR_CONST "           -  \\---"
+#4 STR_CONST "           -  \\---\\"
+#4 STR_CONST "           -  \\---\\\"--\""
+no hizo ningun match: \
+#4 '-'
+no hizo ningun match: \
+#4 STR_CONST "           -  \\---\\\"--\""
+no hizo ningun match: \
+#4 STR_CONST "           -  \\---\\\"--\"--\\"
+no hizo ningun match: \
+#4 STR_CONST "           -  \\---\\\"--\"--\\\\"
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\"
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\\"--\""
+no hizo ningun match: \
+no hizo ningun match: \
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\\"--\""
+no hizo ningun match: \
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\\"--\"--\\"
+no hizo ningun match: \
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\\"--\"--\\\\"
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\\"--\"--\\\\--"
+no hizo ningun match: \
+#5 STR_CONST "           -  \\---\\\"--\"--\\\\\\\"--\"--\\\\--\""
+no hizo ningun match: \
+#5 ERROR "String not defined..."
+#5 STR_CONST "-\""
+no hizo ningun match: \

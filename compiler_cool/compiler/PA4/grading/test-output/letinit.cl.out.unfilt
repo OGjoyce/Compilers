@@ -1,0 +1,10 @@
+SPIM Version 6.5 of January 4, 2003
+Copyright 1990-2003 by James R. Larus (larus@cs.wisc.edu).
+All Rights Reserved.
+See the file README for a full copyright notice.
+Loaded: /usr/class/cs143/cool/lib/trap.handler
+The following symbols are undefined:
+label0
+
+Instruction references undefined symbol at 0x004013d8
+[0x004013d8]	0x11200000  beq $9, $0, 0 [label0-0x004013d8]; 422: beqz	$t1 label0

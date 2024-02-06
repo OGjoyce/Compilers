@@ -1,0 +1,4 @@
+322c322
+< STR_CONST "do nothing"
+---
+> STR_CONST "   . . .  . . . do nothing"

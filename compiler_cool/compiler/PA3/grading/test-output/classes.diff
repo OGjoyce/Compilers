@@ -1,0 +1,78 @@
+16c16
+<       : Int
+---
+>       : _no_type
+24c24
+<       : Int
+---
+>       : _no_type
+29a30,31
+>       _plus
+> 
+33,34d34
+<         _plus
+< 
+37c37,38
+<           : Int
+---
+>           : _no_type
+>         : _no_type
+41,43c42,43
+<           : Int
+<         : Int
+<       : Int
+---
+>         : _no_type
+>       : _no_type
+58c58
+<       : Int
+---
+>       : _no_type
+66c66
+<       : Int
+---
+>       : _no_type
+71a72,73
+>       _sub
+> 
+75,76d76
+<         _sub
+< 
+79c79,80
+<           : Int
+---
+>           : _no_type
+>         : _no_type
+83,85c84,85
+<           : Int
+<         : Int
+<       : Int
+---
+>         : _no_type
+>       : _no_type
+100c100
+<       : Int
+---
+>       : _no_type
+105a106,107
+>       _sub
+> 
+109,110d110
+<         _sub
+< 
+113c113,114
+<           : Int
+---
+>           : _no_type
+>         : _no_type
+117,119c118,119
+<           : Int
+<         : Int
+<       : Int
+---
+>         : _no_type
+>       : _no_type
+134c134
+<       : Int
+---
+>       : _no_type

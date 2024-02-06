@@ -1,0 +1,8 @@
+341c341
+< STR_CONST "\n"
+---
+> STR_CONST "            .            :, , , , , ,  (       ),  _.                .             ,        (   )     (  ).             :   .        .      ..-   .      .      .             ,           .  ()  ,    \t              .               ,  ()   .  \t     \"\"  ,    \t            .\t     ,  , .        \n"
+511c511
+< STR_CONST "How many numbers to sort?"
+---
+> STR_CONST "            .            :, , , , , ,  (       ),  _.                .             ,        (   )     (  ).             :   .        .      ..-   .      .      .             ,           .  ()  ,    \t              .               ,  ()   .  \t     \"\"  ,    \t            .\t     ,  , .        \n          ..- How many numbers to sort?"

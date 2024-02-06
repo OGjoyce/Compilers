@@ -1,0 +1,344 @@
+262c262
+< STR_CONST "\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n"
+285c285
+< STR_CONST "\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n"
+299c299
+< STR_CONST "\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n"
+338c338
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n "
+369c369
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n  "
+398c398
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n   "
+439c439
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n    "
+464c464
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n     "
+479c479
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n      "
+509c509
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n       "
+524c524
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n        "
+554c554
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n         "
+577c577
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n          "
+607c607
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n           "
+630c630
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n            "
+660c660
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n             "
+675c675
+< STR_CONST " "
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              "
+703c703
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              X"
+716c716
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XX"
+729c729
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXX"
+742c742
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXX"
+755c755
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXX"
+768c768
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXX"
+781c781
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXX"
+794c794
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX"
+821c821
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . X"
+837c837
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XX"
+839c839
+< STR_CONST "X"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX"
+841c841
+< STR_CONST "-"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX-"
+844c844
+< STR_CONST "-"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--"
+935c935
+< STR_CONST "\nPlease chose a number:\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n"
+940c940
+< STR_CONST "\t1: A cross\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n"
+945c945
+< STR_CONST "\t2: A slash from the upper left to lower right\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n"
+950c950
+< STR_CONST "\t3: A slash from the upper right to lower left\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n"
+955c955
+< STR_CONST "\t4: An X\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n"
+960c960
+< STR_CONST "\t5: A greater than sign \n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n"
+965c965
+< STR_CONST "\t6: A less than sign\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n"
+970c970
+< STR_CONST "\t7: Two greater than signs\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n"
+975c975
+< STR_CONST "\t8: Two less than signs\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n"
+980c980
+< STR_CONST "\t9: A 'V'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n"
+985c985
+< STR_CONST "\t10: An inverse 'V'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n"
+990c990
+< STR_CONST "\t11: Numbers 9 and 10 combined\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n"
+995c995
+< STR_CONST "\t12: A full grid\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n"
+1000c1000
+< STR_CONST "\t13: A 'T'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n"
+1005c1005
+< STR_CONST "\t14: A plus '+'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n\t14: A plus '+'\n"
+1010c1010
+< STR_CONST "\t15: A 'W'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n\t14: A plus '+'\n\t15: A 'W'\n"
+1015c1015
+< STR_CONST "\t16: An 'M'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n\t14: A plus '+'\n\t15: A 'W'\n\t16: An 'M'\n"
+1020c1020
+< STR_CONST "\t17: An 'E'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n\t14: A plus '+'\n\t15: A 'W'\n\t16: An 'M'\n\t17: An 'E'\n"
+1025c1025
+< STR_CONST "\t18: A '3'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n\t14: A plus '+'\n\t15: A 'W'\n\t16: An 'M'\n\t17: An 'E'\n\t18: A '3'\n"
+1030c1030
+< STR_CONST "\t19: An 'O'\n"
+---
+> STR_CONST "         ,  '       /////.       .           .            .\t    '       ,         :                , ,        .               ''  ''    '                      .            .            ''    '' .   ''   (  ,)            '          .    '' ,                 '',            ''. ('  ')                 '',            ''. (    )           , , , , ,      '',            ''. ('  ')     '' ,           , , , , , , , ,              '',    ''. (    )               '',            ''. (  ''  ' '   .)          .  \n\n\n              XXXXXXXX          '   .      .         '   . XXX--           .                    , , , , ,       . \nPlease chose a number:\n\t1: A cross\n\t2: A slash from the upper left to lower right\n\t3: A slash from the upper right to lower left\n\t4: An X\n\t5: A greater than sign \n\t6: A less than sign\n\t7: Two greater than signs\n\t8: Two less than signs\n\t9: A 'V'\n\t10: An inverse 'V'\n\t11: Numbers 9 and 10 combined\n\t12: A full grid\n\t13: A 'T'\n\t14: A plus '+'\n\t15: A 'W'\n\t16: An 'M'\n\t17: An 'E'\n\t18: A '3'\n\t19: An 'O'\n"
+1035c1035
+< STR_CONST "\t20: An '8'\n"
+---
+> LONGERROR
+1040c1040
+< STR_CONST "\t21: An 'S'\n"
+---
+> LONGERROR
+1045c1045
+< STR_CONST "Your choice => "
+---
+> LONGERROR
+1056c1056
+< STR_CONST "\n"
+---
+> LONGERROR
+1064c1064
+< STR_CONST " XX  XXXX XXXX  XX  "
+---
+> LONGERROR
+1071c1071
+< STR_CONST "    X   X   X   X   X    "
+---
+> LONGERROR
+1078c1078
+< STR_CONST "X     X     X     X     X"
+---
+> LONGERROR
+1085c1085
+< STR_CONST "X   X X X   X   X X X   X"
+---
+> LONGERROR
+1092c1092
+< STR_CONST "X     X     X   X   X    "
+---
+> LONGERROR
+1099c1099
+< STR_CONST "    X   X   X     X     X"
+---
+> LONGERROR
+1106c1106
+< STR_CONST "X  X  X  XX  X      "
+---
+> LONGERROR
+1113c1113
+< STR_CONST " X  XX  X  X  X     "
+---
+> LONGERROR
+1120c1120
+< STR_CONST "X   X X X   X  "
+---
+> LONGERROR
+1127c1127
+< STR_CONST "  X   X X X   X"
+---
+> LONGERROR
+1134c1134
+< STR_CONST "X X X X X X X X"
+---
+> LONGERROR
+1141c1141
+< STR_CONST "XXXXXXXXXXXXXXXXXXXXXXXXX"
+---
+> LONGERROR
+1148c1148
+< STR_CONST "XXXXX  X    X    X    X  "
+---
+> LONGERROR
+1155c1155
+< STR_CONST "  X    X  XXXXX  X    X  "
+---
+> LONGERROR
+1162c1162
+< STR_CONST "X     X X X X   X X  "
+---
+> LONGERROR
+1169c1169
+< STR_CONST "  X X   X X X X     X"
+---
+> LONGERROR
+1176c1176
+< STR_CONST "XXXXX   X   XXXXX   X   XXXX"
+---
+> LONGERROR
+1183c1183
+< STR_CONST "XXX    X   X  X    X   XXXX "
+---
+> LONGERROR
+1190c1190
+< STR_CONST " XX X  XX  X XX "
+---
+> LONGERROR
+1197c1197
+< STR_CONST " XX X  XX  X XX X  XX  X XX "
+---
+> LONGERROR
+1204c1204
+< STR_CONST " XXXX   X    XX    X   XXXX "
+---
+> LONGERROR
+1206c1206
+< STR_CONST "                         "
+---
+> LONGERROR
+1251c1251
+< STR_CONST "Would you like to continue with the next generation? \n"
+---
+> LONGERROR
+1256c1256
+< STR_CONST "Please use lowercase y or n for your answer [y]: "
+---
+> LONGERROR
+1267c1267
+< STR_CONST "\n"
+---
+> LONGERROR
+1273c1273
+< STR_CONST "n"
+---
+> LONGERROR
+1301c1301
+< STR_CONST "\n\n"
+---
+> LONGERROR
+1306c1306
+< STR_CONST "Would you like to choose a background pattern? \n"
+---
+> LONGERROR
+1311c1311
+< STR_CONST "Please use lowercase y or n for your answer [n]: "
+---
+> LONGERROR
+1323c1323
+< STR_CONST "y"
+---
+> LONGERROR
+1367c1367
+< STR_CONST "Welcome to the Game of Life.\n"
+---
+> LONGERROR
+1372c1372
+< STR_CONST "There are many initial states to choose from. \n"
+---
+> LONGERROR

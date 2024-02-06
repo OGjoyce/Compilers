@@ -1,0 +1,11 @@
+#name "./invalidcharacters.cool"
+no hizo ningun match: !
+no hizo ningun match: #
+no hizo ningun match: $
+no hizo ningun match: %
+no hizo ningun match: ^
+no hizo ningun match: &
+#1 ERROR "_"
+#1 ERROR "Exception in thread "main" java.lang.NullPointerException
+	at Utilities.dumpToken(Utilities.java:219)
+	at Lexer.main(Lexer.java:44)
